@@ -98,9 +98,7 @@ npm run build
 
 ## 📸 Screenshots
 
-_Add website screenshots here._
-
----
+<img width="1470" height="956" alt="Screenshot 2026-07-25 at 1 04 46 PM" src="https://github.com/user-attachments/assets/226e3292-127d-487c-9b66-d15d3d40cecc" />
 
 ## 🎯 Services
 
