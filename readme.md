@@ -119,9 +119,8 @@ _Add website screenshots here._
 
 GitHub: https://github.com/isuprotikroy
 
-LinkedIn: *(Add your LinkedIn)*
+LinkedIn: isuprotikroy
 
-Portfolio: https://www.magzant.com
 
 ---
 
